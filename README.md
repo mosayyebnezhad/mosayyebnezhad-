@@ -1,15 +1,1 @@
-{
-    "name": {
-        "name": "mohammad hasan",
-        "family": "mosayyebnezhad",
-        "FullName": "mohammad mosayyebnezhad"
-    },
-    "birthDate": 2004,
-    "Location": "Iran",
-    "education": [
-        {
-            "institution": "Islamic Azad University",
-            "major": "Computer Science"
-        }
-    ]
-}
+[![img](https://skillicons.dev/icons?i=linkedin,&theme=dark)](https://www.linkedin.com/in/mosayyebnezhad/)
