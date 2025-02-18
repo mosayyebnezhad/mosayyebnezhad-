@@ -4,4 +4,4 @@
 -----
 
 
-![img](https://skillicons.dev/icons?i=js,react,nodejs,ts,next,express,mongodb,py,tailwind,go,npm,postman,figma,vercel&theme=light)
+![img](https://skillicons.dev/icons?i=js,ts,go,py&theme=light)
